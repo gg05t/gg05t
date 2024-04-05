@@ -1,17 +1,25 @@
+
 <img src="https://media1.tenor.com/m/3AQDvhSiPpMAAAAC/dog-hacker.gif" alt="Dog Hacker GIF" width="50%">
+
 
 # Hello, I'm gobgab! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingfah-chantrakul/)](https://www.linkedin.com/in/ingfah-chantrakul/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/HTegPPxu)
 
-I'm a passionate frontend developer with a strong background in user experience, user-centric design, and creating user-friendly web interfaces. I'm also interested in data visualization, data science, machine learning, and AI. Currently pursuing a degree in Computer Engineering at Chulalongkorn University.
+__Currently pursuing a degree in Computer Engineering and technology at Chulalongkorn University.__
+
+###### Movies-Travel-ENFP-Sushi
+
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/full-stack-technical-joke-comedian.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+
+
+
+**_"Welcome to my GitHub profile! Feel free to explore my repositories and projects."_**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60%">
 
@@ -29,7 +37,9 @@ Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
+
+[![Now Playing](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM?si=560e9f6cd7e44076)
+
 
 ## ❤️‍🔥 My Stats : 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gg05t&theme=dark)](https://git.io/streak-stats)
@@ -52,7 +62,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 ## 📚 What I'm Currently Learning
 
-I'm currently focusing on improving my skills in data visualization, data science, machine learning, and AI. I'm diving deeper into these topics to enhance my understanding and expertise.
+I'm currently focusing on improving my skills in data visualization, data science, machine learning, and AI. I'm diving deeper into these topics to enhance my understanding and expertise. I'm a passionate frontend developer with a strong background in user experience, user-centric design, and creating user-friendly web interfaces. I'm also interested in data visualization, data science, machine learning, and AI.
 
 <img src=https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif>
 
@@ -61,3 +71,4 @@ I'm currently focusing on improving my skills in data visualization, data scienc
 You can reach out to me through my [LinkedIn](https://www.linkedin.com/in/ingfah-chantrakul/) profile or via [email](mailto:gobgab.ingfah@gmail.com).
 
 Let's connect and collaborate!
+
