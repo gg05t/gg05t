@@ -55,6 +55,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 I'm currently focusing on improving my skills in data visualization, data science, machine learning, and AI. I'm diving deeper into these topics to enhance my understanding and expertise.
 
 <img src=https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif>
+
 ## 📫 How to Reach Me
 
 You can reach out to me through my [LinkedIn](https://www.linkedin.com/in/ingfah-chantrakul/) profile or via [email](mailto:gobgab.ingfah@gmail.com).
