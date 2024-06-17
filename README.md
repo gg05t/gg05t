@@ -21,7 +21,6 @@ __Currently pursuing a degree in Computer Engineering and technology at Chulalon
 
 **_"Welcome to my GitHub profile! Feel free to explore my repositories and projects."_**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60%">
 
 ## 🔧 Technologies & Tools
 
@@ -60,15 +59,4 @@ __Currently pursuing a degree in Computer Engineering and technology at Chulalon
     <img src="https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="3%">
 </div>
 
-## 📚 What I'm Currently Learning
-
-I'm currently focusing on improving my skills in data visualization, data science, machine learning, and AI. I'm diving deeper into these topics to enhance my understanding and expertise. I'm a passionate frontend developer with a strong background in user experience, user-centric design, and creating user-friendly web interfaces. I'm also interested in data visualization, data science, machine learning, and AI.
-
-<img src=https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif>
-
-## 📫 How to Reach Me
-
-You can reach out to me through my [LinkedIn](https://www.linkedin.com/in/ingfah-chantrakul/) profile or via [email](mailto:gobgab.ingfah@gmail.com).
-
-Let's connect and collaborate!
 
