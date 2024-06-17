@@ -23,14 +23,13 @@ __Currently pursuing a degree in Computer Engineering and technology at Chulalon
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**_"Welcome to my GitHub profile! Feel free to explore my repositories and projects."_**
+
 
 
 [![Now Playing](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM?si=560e9f6cd7e44076)
 
 
-##  My Stats : 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gg05t&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gg05t&theme=dark)
 
-
+**_"Welcome to my GitHub profile! Feel free to explore my repositories and projects."_**
