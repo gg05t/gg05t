@@ -11,19 +11,6 @@ __Currently pursuing a degree in Computer Engineering and technology at Chulalon
 
 ###### Movies-Travel-ENFP-Sushi
 
-
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/full-stack-technical-joke-comedian.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
-
-
-
-
-**_"Welcome to my GitHub profile! Feel free to explore my repositories and projects."_**
-
-
-## 🔧 Technologies & Tools
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -35,6 +22,8 @@ __Currently pursuing a degree in Computer Engineering and technology at Chulalon
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**_"Welcome to my GitHub profile! Feel free to explore my repositories and projects."_**
 
 
 [![Now Playing](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM?si=560e9f6cd7e44076)
