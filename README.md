@@ -28,6 +28,7 @@ __Currently pursuing a degree in Computer Engineering and technology at Chulalon
 
 [![Now Playing](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/playlist/5B1mOnQc2PAnmpjTum5itp])
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5B1mOnQc2PAnmpjTum5itp?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gg05t&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gg05t&theme=dark)
