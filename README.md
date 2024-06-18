@@ -28,7 +28,7 @@ __Currently pursuing a degree in Computer Engineering and technology at Chulalon
 
 [![Now Playing](https://novatorem.bgstatic.vercel.app/api/spotify)]([[https://open.spotify.com/playlist/5B1mOnQc2PAnmpjTum5itp]](https://open.spotify.com/playlist/5B1mOnQc2PAnmpjTum5itp?si=a5266e9aba984efc))
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jv7tl5y2rprgcb3iyfwl3wc734&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4e6cb1)](https://spotify-github-profile.vercel.app/api/view?uid=31jv7tl5y2rprgcb3iyfwl3wc734&redirect=true)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gg05t&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gg05t&theme=dark)
